@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="LoginStep" type="JAVA" />
+      <mapping pattern="MyRunner" type="JAVA" />
+      <mapping pattern="Runner" type="PLAIN_TEXT" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
